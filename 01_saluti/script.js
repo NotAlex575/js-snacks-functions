@@ -9,7 +9,8 @@ function function_username(userName){
 }
 
 // Invoca la funzione qui e stampa il risultato in console
+//Risultato atteso se si passa 'Mario': // ciao Mario
 
 console.log(function_username(userName));
 
-//Risultato atteso se si passa 'Mario': // ciao Mario
+
